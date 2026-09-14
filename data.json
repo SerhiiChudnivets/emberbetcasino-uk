@@ -79,12 +79,12 @@
   "accent_color": "#d4af37",
   "main_background": "#03171f",
   "secondary_background": "#182e37",
-  "button_background": "#ed7a05",
+  "button_background": "#fc7206",
   "button_text_color": "#dcdfe0",
   "text_color": "#dcdfe0",
   "color_highlight_text": "#dcdfe0",
   "color_main_btn_text": "#03171f",
-  "cta_background": "#ed7a05",
+  "cta_background": "#fc7206",
   "logo": {
     "url": "/uploads/460309704664999452684035f314f3c8.svg",
     "alt": "emberbet logo"
@@ -94,7 +94,7 @@
     "alt": "emberbet logo"
   },
   "main_background_img": {
-    "url": "/uploads/c12e0805170039eb0fc8835ac24c477d.webp",
+    "url": "/uploads/5dfc6dd0db7cdc1128b11f70ee96e308.webp",
     "alt": "emberbet baner"
   },
   "header_menu": [
@@ -262,10 +262,10 @@
       "question": "Can I deposit and play using Bitcoin and crypto?"
     }
   ],
-  "_generated_at": "2026-09-14T14:00:44.226Z",
+  "_generated_at": "2026-09-14T14:05:24.024Z",
   "_version": "1.0.0",
   "html_head_alt": "emberbet baner",
   "content_alt": "emberbet slot",
-  "_last_deploy": "2026-09-14T14:00:44.984Z",
-  "_deploy_trigger": "ts9utb"
+  "_last_deploy": "2026-09-14T14:05:24.674Z",
+  "_deploy_trigger": "qn8p8m"
 }
