@@ -75,30 +75,23 @@
         {
           "link": "/play/",
           "logo": "/uploads/22c2105fe50e3ff19cf7dcebe4fde551.webp",
-          "name": "Weekly Bonus",
-          "Name": "Weekly Bonus",
+          "name": "Welcome Crypto Bonus 150% up to 1 BTC + 150 FS",
+          "Name": "Welcome Crypto Bonus 150% up to 1 BTC + 150 FS",
           "logo_alt": "Weekly Bonus"
         },
         {
           "link": "/play/",
           "logo": "/uploads/85f7c06258af2a32384294eadea85dd1.webp",
-          "name": "Welcome Bonus",
-          "Name": "Welcome Bonus",
+          "name": "Welcome Bonus  250% up to £10,000",
+          "Name": "Welcome Bonus  250% up to £10,000",
           "logo_alt": "Welcome Bonus"
         },
         {
           "link": "/play/",
           "logo": "/uploads/c5741637ac2c319b7953cf7b8b4d8a3d.webp",
-          "name": "Sport Bonus",
-          "Name": "Sport Bonus",
+          "name": "Sport Bonus 100% up to £100",
+          "Name": "Sport Bonus 100% up to £100",
           "logo_alt": "Sport Bonus"
-        },
-        {
-          "link": "/play/",
-          "logo": "/uploads/31e155d59b7f6d26be4378dfddcb19ab.webp",
-          "name": "Weekly Bonus",
-          "Name": "Weekly Bonus",
-          "logo_alt": "Weekly Bonus"
         }
       ],
       "faq": [],
@@ -327,30 +320,23 @@
     {
       "link": "/play/",
       "logo": "/uploads/22c2105fe50e3ff19cf7dcebe4fde551.webp",
-      "name": "Weekly Bonus",
-      "Name": "Weekly Bonus",
+      "name": "Welcome Crypto Bonus 150% up to 1 BTC + 150 FS",
+      "Name": "Welcome Crypto Bonus 150% up to 1 BTC + 150 FS",
       "logo_alt": "Weekly Bonus"
     },
     {
       "link": "/play/",
       "logo": "/uploads/85f7c06258af2a32384294eadea85dd1.webp",
-      "name": "Welcome Bonus",
-      "Name": "Welcome Bonus",
+      "name": "Welcome Bonus  250% up to £10,000",
+      "Name": "Welcome Bonus  250% up to £10,000",
       "logo_alt": "Welcome Bonus"
     },
     {
       "link": "/play/",
       "logo": "/uploads/c5741637ac2c319b7953cf7b8b4d8a3d.webp",
-      "name": "Sport Bonus",
-      "Name": "Sport Bonus",
+      "name": "Sport Bonus 100% up to £100",
+      "Name": "Sport Bonus 100% up to £100",
       "logo_alt": "Sport Bonus"
-    },
-    {
-      "link": "/play/",
-      "logo": "/uploads/31e155d59b7f6d26be4378dfddcb19ab.webp",
-      "name": "Weekly Bonus",
-      "Name": "Weekly Bonus",
-      "logo_alt": "Weekly Bonus"
     }
   ],
   "Reviews": null,
@@ -376,10 +362,10 @@
       "question": "Can I deposit and play using Bitcoin and crypto?"
     }
   ],
-  "_generated_at": "2026-09-14T14:23:52.412Z",
+  "_generated_at": "2026-09-15T10:17:03.451Z",
   "_version": "1.0.0",
   "html_head_alt": "emberbet baner",
   "content_alt": "emberbet slot",
-  "_last_deploy": "2026-09-14T14:23:53.041Z",
-  "_deploy_trigger": "xpu8i"
+  "_last_deploy": "2026-09-15T10:17:04.033Z",
+  "_deploy_trigger": "3a4iaq"
 }
