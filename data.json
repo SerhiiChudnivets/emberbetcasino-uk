@@ -269,16 +269,6 @@
       "link": "/play/",
       "image": "/uploads/29ad6e8e1fc087f97738038aa420f4ea.svg",
       "image_alt": "18+"
-    },
-    {
-      "link": "/play/",
-      "image": "/uploads/6e4898443d8c7a6d3f85c8c699adf4b8.svg",
-      "image_alt": "visa"
-    },
-    {
-      "link": "/play/",
-      "image": "/uploads/2767b5abec611eeaecc8af4ad65c2a43.svg",
-      "image_alt": "btc"
     }
   ],
   "Slots": [
@@ -364,10 +354,10 @@
       "question": "Can I deposit and play using Bitcoin and crypto?"
     }
   ],
-  "_generated_at": "2026-09-17T09:19:23.294Z",
+  "_generated_at": "2026-09-17T09:27:54.470Z",
   "_version": "1.0.0",
   "html_head_alt": "emberbet baner",
   "content_alt": "emberbet slot",
-  "_last_deploy": "2026-09-17T09:19:23.872Z",
-  "_deploy_trigger": "889sue"
+  "_last_deploy": "2026-09-17T09:27:55.117Z",
+  "_deploy_trigger": "yysegg"
 }
